@@ -1,8 +1,8 @@
-🚗 # Rent-a-Car Yönetim Sistemi
+# Rent-a-Car Yönetim Sistemi
 
 Rent-a-Car Yönetim Sistemi, araç kiralama süreçlerini dijitalleştirerek hem müşterilere hem de yöneticilere kolaylık sağlamayı amaçlayan bir web platformudur. Kullanıcı dostu arayüzü ve güçlü backend altyapısıyla araç envanter yönetimi, rezervasyon, kiralama işlemleri gibi işlevleri tek bir sistemde birleştirir.
 
-📌 ## Proje Kapsamı
+## Proje Kapsamı
 
 ### 👤 Kullanıcı Tipleri
 
@@ -18,7 +18,7 @@ Rent-a-Car Yönetim Sistemi, araç kiralama süreçlerini dijitalleştirerek hem
 - Rezervasyon yönetimi
 - Kullanıcı yönetimi ve kullanıcıların kiralama geçmişlerini görüntüleme
 
-⚙️ ### Fonksiyonellikler
+### Fonksiyonellikler
 
 #### Araç Envanter Yönetimi:
 - Marka, model, fiyat ve durum bilgileriyle araç kaydetme, güncelleme ve listeleme
@@ -29,7 +29,7 @@ Rent-a-Car Yönetim Sistemi, araç kiralama süreçlerini dijitalleştirerek hem
 #### Kiralama Süreci:
 - Araç teslim alma, kullanım ve teslim etme adımlarının takibi
 
-🛠️ ### Kullanılan Teknolojiler
+### Kullanılan Teknolojiler
 
 #### Backend
 - Java Spring Boot – API geliştirme ve iş mantığı
@@ -42,11 +42,11 @@ Rent-a-Car Yönetim Sistemi, araç kiralama süreçlerini dijitalleştirerek hem
 - Axios – API iletişimi
 - Tailwind CSS (veya mevcutsa diğer stil kütüphaneleri)
 
-🔒 ### Güvenlik
+### Güvenlik
 - Kullanıcı kimlik doğrulaması JWT (JSON Web Token) ile sağlanmaktadır.
 - Yetkilendirme sistemi ile müşteriler yalnızca kendi işlemlerine, adminler ise tüm sisteme erişebilir.
 
-⚡ ### Projenin Sağladığı Faydalar
+### Projenin Sağladığı Faydalar
 ✅ Zaman ve İşgücü Tasarrufu: Dijitalleşme sayesinde manuel hatalar en aza iner.  
 ✅ Kullanıcı Deneyimi: Kullanıcı dostu arayüz ile işlemler kolaylıkla gerçekleştirilir.  
 ✅ Güvenlik: JWT ile veri ve süreç güvenliği sağlanır.
